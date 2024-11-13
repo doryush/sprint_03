@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Проект Создан")
         // Do any additional setup after loading the view.
     }
 
